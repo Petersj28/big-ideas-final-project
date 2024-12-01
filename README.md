@@ -1,7 +1,7 @@
 # Big Ideas Final Project
 
 ## Team
-**Team Name:** Hoopalaville
+**Team Name:** Hoopalaville (Group 28)
 
 **Team Members:**
 * Jack Carluccio - jec432@pitt.edu
